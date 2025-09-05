@@ -25,23 +25,6 @@ Install requirements
 pip install -r requirements.txt
 
 
-Go to Streamlit Cloud
-
-Login → “New App” → Select your repo
-
-Set main file path = app.py
-
-Click Deploy 🚀
-
-Now you’ll get a permanent link like:
-
-https://magicnumbergame.streamlit.app
-
-📂 Project Structure
-magic-number-game/
-│── app.py              # Main game code
-│── requirements.txt    # Dependencies (streamlit)
-│── README.md           # Project guide
 
 ✨ Created By
 
