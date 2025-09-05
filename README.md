@@ -20,31 +20,10 @@ Just think of any number, follow the steps, and let the magic reveal your final 
 
 🛠️ How to Run Locally
 
-Clone this repo
-
-git clone https://github.com/your-username/magic-number-game.git
-cd magic-number-game
-
-
 Install requirements
 
 pip install -r requirements.txt
 
-
-Run the app
-
-streamlit run app.py
-
-
-Open the link in browser
-
-http://localhost:8501
-
-🌍 Deploy Online (Free)
-
-You can deploy this app for free using Streamlit Cloud:
-
-Push this repo to GitHub
 
 Go to Streamlit Cloud
 
