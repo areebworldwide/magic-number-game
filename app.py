@@ -33,7 +33,7 @@ def explain_math(user_value, add_number):
         3️⃣ Step 3: Divide total by 2 → `(2*{user_value} + {add_number}) / 2`  
         4️⃣ Step 4: Subtract your number ({user_value}) → `{add_number // 2}`  
 
-        🎯 **So no matter what number you choose, the result is always {add_number // 2}!**
+        🎯 **So the result is {add_number // 2}!**
         """
         return explanation
     except ValueError:
@@ -97,3 +97,4 @@ if name:
                 st.info(explanation)
 else:
     st.warning("⚠️ Please enter your name to start the game!")
+
