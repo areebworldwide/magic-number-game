@@ -25,7 +25,8 @@ Install requirements
 pip install -r requirements.txt
 
 
-
+here you can play 
+https://magic-number-game-kwu8azc4femyebguu4vnhu.streamlit.app/
 ✨ Created By
 
 👨‍💻 Areeb
